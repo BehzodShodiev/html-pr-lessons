@@ -1,0 +1,20 @@
+div.fixed{
+    position: fixed;
+    bottom: 25px;
+    right: 50px;
+    width: 60px;
+    color: blue;
+}
+
+
+
+th{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;   
+}
+.google{
+    position: fixed;
+    right: 350px;
+    bottom: 400px;
+}

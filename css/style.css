@@ -1,0 +1,53 @@
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+#header{
+    background-color: honeydew;
+    font-size: 18px;
+    font-weight: bold;
+    color: blanchedalmond;
+    text-align: center;
+    
+}
+.col-6{
+    padding: 0;
+    
+    float: right; 
+}
+.jumbotron{
+    background-color: gainsboro;
+}
+
+#content{
+    clear: both;
+    overflow: auto;
+}
+
+#nav{
+    background-color: white;
+    float: left;
+    width: 55%;
+    height: 500px;
+}
+
+#nav li{
+    list-style: none;
+}
+
+#nav li a{
+    color: chocolate;
+}
+
+#page_content{
+    float: right;
+    width: 74%;
+}
+
+#footer{
+    padding: 40px;
+    color: green;
+    background-color: aquamarine;
+}
